@@ -1,0 +1,10 @@
+invoice-generator/
+├── src/
+│   ├── components/
+│   │   └── InvoiceForm.tsx
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── index.css
+├── index.html
+├── package.json
+└── README.md
